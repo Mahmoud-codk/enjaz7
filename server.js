@@ -9,7 +9,7 @@ const axios = require('axios');
 const os = require('os');
 const admin = require('firebase-admin');
 
-require('./index'); // خليه فقط لو ما بيوقفش السيرفر (لو فيه مشاكل شيله)
+require('./index');
 
 const authMiddleware = require('./helpers/auth_middleware');
 
