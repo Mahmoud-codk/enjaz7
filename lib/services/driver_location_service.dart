@@ -8,8 +8,9 @@ import 'package:shared_preferences/shared_preferences.dart';
 class DriverLocationService {
   Timer? _pollingTimer;
 
+  // عدل هذا الرابط بعد أن ترفع السيرفر على Render
   static const String _defaultApiUrl =
-      'http://192.168.1.46:3001/api/driver-location';
+      'https://enjaz7-server.onrender.com/api/driver-location';
   static const String _defaultJwtToken = 'Bearer YOUR_JWT_TOKEN';
 
   Future<Map<String, String>> _getApiConfig() async {

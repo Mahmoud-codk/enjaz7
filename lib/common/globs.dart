@@ -16,7 +16,8 @@ class Globs {
 
 class SVKey {
   static const apiKey = "ENJAZ7_SECURE_KEY_8f9a2b3c4d5e6f7G8H9I0J1K2L3M4N5O";
-  static const mainUrl = "http://192.168.1.46:3001";
+  // عدل هذا الرابط بعد أن ترفع السيرفر على Render واحصل منه على الرابط
+  static const mainUrl = "https://enjaz7-server.onrender.com";
   static const baseUrl = "$mainUrl/api/";
   static const nodeUrl = mainUrl;
 

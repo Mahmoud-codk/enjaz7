@@ -212,8 +212,8 @@ class UltimateDirectionsService {
     // نصيحة: إذا كنت تستخدم محاكي أندرويد، يفضل استخدام 10.0.2.2
     final String baseUrl = customUrl ??
         (kDebugMode
-            ? 'http://192.168.1.46:3001'
-            : 'https://your-production-server.com');
+            ? 'https://enjaz7-server.onrender.com'
+            : 'https://enjaz7-server.onrender.com');
 
     String url = '$baseUrl/api/proxy/directions?';
     url += 'origin=${origin.latitude},${origin.longitude}';
