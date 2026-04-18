@@ -1,0 +1,104 @@
+name: enjaz7
+description: "دليل حافلات إنجاز - أقوى تطبيق مواصلات في مصر"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  geolocator: ^14.0.2
+  flutter_local_notifications: ^19.4.0
+  app_settings: ^7.0.0
+
+  firebase_core: ^4.4.0 # was 2.32.0
+  firebase_auth: ^6.1.4 # was 4.4.0
+  firebase_analytics: ^12.1.2 # was 10.1.0
+  firebase_messaging: ^16.1.1 # was 14.2.0
+  cloud_firestore: ^6.1.2 # was 4.4.0
+  firebase_storage: ^13.0.6
+  firebase_remote_config: ^6.1.4 # was 4.0.0
+  firebase_crashlytics: ^5.0.7 # was 3.0.0
+  google_sign_in: ^5.4.4
+  sign_in_with_apple: ^7.0.1
+  google_mobile_ads: ^5.1.0
+
+  provider: ^6.1.5
+  shared_preferences: ^2.5.3
+  share_plus: ^12.0.0
+  url_launcher: ^6.3.2
+  geocoding: ^4.0.0
+  permission_handler: ^12.0.1
+  vibration: ^3.1.3
+  google_maps_flutter: ^2.14.0
+  http: ^1.2.1
+  package_info_plus: ^9.0.0
+
+  timeline_tile: ^2.0.0
+  font_awesome_flutter: ^10.9.0
+  cupertino_icons: ^1.0.8
+  google_fonts: ^7.0.2
+  table_calendar: ^3.1.2
+  flutter_tts: ^3.7.0
+
+  # ✅ البديل الحديث والمستقر لـ fab_speed_dial
+  flutter_speed_dial: ^7.0.0
+
+  confetti: ^0.8.0
+  lottie: ^3.2.0
+  flutter_inappwebview: ^6.1.0
+
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.5
+  flutter_polyline_points: ^2.0.0
+
+  audioplayers: ^6.5.0
+  clipboard: ^3.0.9
+  go_router: ^17.0.1
+  speech_to_text: ^7.3.0
+  connectivity_plus: ^7.0.0
+  fuzzywuzzy: ^1.1.9
+  logger: ^2.0.0
+  intl: ^0.20.2
+  collection: ^1.18.0
+  mockito: ^5.4.4
+  image_picker: ^1.1.2
+  cached_network_image: ^3.3.1
+  introduction_screen: ^4.0.0
+  smooth_page_indicator: ^1.1.0
+  app_links: ^3.5.0
+  flutter_foreground_task: ^9.2.1
+  socket_io_client: ^3.1.2
+  fbroadcast: 2.0.0
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  build_runner: ^2.4.13
+  hive_generator: ^2.0.1
+  firebase_auth_mocks: ^0.15.1
+  pigeon: ^10.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+  - assets/data/
+  - assets/sounds/
+  - assets/images/play_store_512.png
+  - assets/palestine.png
+  - assets/animations/no_trips.json
+  - assets/animations/bus_loading.json
+  - assets/animations/arrival.json
+  - assets/animations/empty_favorites.json

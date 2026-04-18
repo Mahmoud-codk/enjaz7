@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enjaz.busguide",
+      "sha256_cert_fingerprints":
+        ["AD:6E:51:05:80:14:A8:FE:58:68:E8:76:2E:3E:74:97:15:63:AD:85:A0:5C:1A:C8:51:86:12:E8:12:79:53:6A", "EC:A3:51:0D:F9:E4:F8:C1:55:B4:22:F3:FF:7F:6C:C9:52:64:18:6D:9B:FB:60:EA:5B:80:68:66:00:EA:C7:29"]
+    }
+  }
+]

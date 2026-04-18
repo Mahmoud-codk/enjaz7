@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "635670015942",
+    "project_id": "enjaz7-a49f2",
+    "storage_bucket": "enjaz7-a49f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635670015942:android:9200813128abad0dde0cc7",
+        "android_client_info": {
+          "package_name": "com.enjaz.busguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635670015942-fd88jb0l5kuf2itmtlp94jgc0e4ifo8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjaz.busguide",
+            "certificate_hash": "01a87f856603fea6b25d7d4b7983fb12ea4da4b8"
+          }
+        },
+        {
+          "client_id": "635670015942-j86bhstmct6p7a9qtaa755dnaksp25sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjaz.busguide",
+            "certificate_hash": "cdcb16e2598d745e780293f64d7a5ffd52651c51"
+          }
+        },
+        {
+          "client_id": "635670015942-5525njhf2fe507p0s094g99vmkevn2mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApGehTUv-AjNJO5ByNgBSKdHP25cVdPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635670015942-5525njhf2fe507p0s094g99vmkevn2mo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635670015942-d5rvrh7ron0g8dsfv9fmi4ts0ne62sfi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enjaz.busguide"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5517764020832780~5599494074"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enjaz</string>
+    <string name="google_maps_key">AIzaSyAApGehTUv-AjNJO5ByNgBSKdHP25cVdPU</string>
+    <string name="default_web_client_id">635670015942-fd88jb0l5kuf2itmtlp94jgc0e4ifo8k.apps.googleusercontent.com</string>
+</resources>

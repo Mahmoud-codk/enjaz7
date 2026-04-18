@@ -1,0 +1,21 @@
+{
+  "java.home": "C:\\Program Files\\Android\\Android Studio\\jbr",
+  "android.sdkPath": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk",
+  "yaml.schemas": {
+    "pubspec.yaml": false
+  },
+  "yaml.schemaStore.enable": false,
+  "yaml.validate": false,
+  "yaml.format.enable": true,
+  "cmake.sourceDirectory": "C:/Users/DELL/Desktop/1000/enjaz7/windows",
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/build": true,
+    "**/.git": true
+  },
+  "search.exclude": {
+    "**/build": true,
+    "**/.dart_tool": true
+  },
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
